@@ -1,3 +1,6 @@
+## CS250 Module 8 Journal
+
+
 ## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 Interpreting user needs involves more than just listening to what a user says they want. Often, it requires digging deeper to understand the real problem they are facing and what outcome they are trying to achieve. Sometimes users express their frustrations or ideas in vague or non-technical ways, so it is important to ask clarifying questions and pay attention to what they are not saying as much as what they are. Once I understand the core issue, I can start thinking about how to design features or tools within a program that solve that problem effectively.
